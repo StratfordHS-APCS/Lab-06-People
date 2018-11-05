@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/StratfordHS-APCS/lab-06-person-username.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-APCS/lab-06-person-username)
+[![Build Status](https://travis-ci.com/StratfordHS-APCS/lab-06-people-username.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-APCS/lab-06-people-username)
 
-# Lab 06 - Person
+# Lab 06 - People
 
 ## Lab Goal
 In this lab you will be extending a superclass.  You will also be practicing good object-oriented design in constructing a class. **This is a major grade.**
